@@ -1,0 +1,11 @@
+﻿.env
+.env.local
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.faiss
+*.pkl
+faiss_index/
+.streamlit/secrets.toml
+.DS_Store
