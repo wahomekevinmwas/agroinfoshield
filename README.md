@@ -178,13 +178,13 @@ python -m streamlit run app.py
 
 ## Built By
 
-**Kevin Wahome** — Python/Django Developer & Linux Systems Administrator — Nairobi, Kenya 🇰🇪
+**Kevin Wahome** — Python/Django Developer & Linux Systems Administrator
+MSc Computer Science (Computational Intelligence), University of Nairobi
 
-LinkedIn: www.linkedin.com/in/kevin-wahome-0340a5325
+LinkedIn: www.linkedin.com/in/kevin-wahome-0340a5325 
 GitHub: github.com/wahomekevinmwas
 
-Also built: [AgroInfoShield](https://github.com/wahomekevinmwas/agroinfoshield) — multilingual RAG fact-checking dashboard
-
+Also built: [LivestockAI](https://github.com/wahomekevinmwas/livestock-monitor) — Django livestock disease monitoring with Z-score anomaly detection
 ---
 
 ## License
