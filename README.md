@@ -178,9 +178,12 @@ python -m streamlit run app.py
 
 ## Built By
 
-**Kevin Wahome** — Systems Engineer → Full-Stack Developer  
-MSc Computer Science (Computational Intelligence), University of Nairobi  
-Also built: [AgroIntel Kenya](https://github.com/wahomekevinmwas/agrointel-kenya) — Agricultural Market Intelligence Platform
+**Kevin Wahome** — Python/Django Developer & Linux Systems Administrator — Nairobi, Kenya 🇰🇪
+
+LinkedIn: www.linkedin.com/in/kevin-wahome-0340a5325
+GitHub: github.com/wahomekevinmwas
+
+Also built: [AgroInfoShield](https://github.com/wahomekevinmwas/agroinfoshield) — multilingual RAG fact-checking dashboard
 
 ---
 
