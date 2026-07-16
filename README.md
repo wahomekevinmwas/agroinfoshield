@@ -178,7 +178,7 @@ python -m streamlit run app.py
 
 ## Built By
 
-**Kevin Wahome** — Systems Engineer → Full-Stack AI Developer  
+**Kevin Wahome** — Systems Engineer → Full-Stack Developer  
 MSc Computer Science (Computational Intelligence), University of Nairobi  
 Also built: [AgroIntel Kenya](https://github.com/wahomekevinmwas/agrointel-kenya) — Agricultural Market Intelligence Platform
 
